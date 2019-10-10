@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SonDemo</string>
+    <string name="nav_category">Home</string>
+    <string name="nav_rate">Lưu</string>
+    <string name="nav_share">Chia sẻ</string>
+    <string name="nav_favourite">Đánh giá</string>
+    <string name="nav_tacgia">Tác giả</string>
+    <string name="nav_fb">Facebook</string>
+    <string name="text_desc_welcome">Welcom to Truyện Online </string>
+    <string name="button_getstart">Tiếp tục</string>
+    <string name="nav_header_title">Đọc truyện Online</string>
+    <string name="nav_header_version">Version: 1.0.0</string>
+</resources>
